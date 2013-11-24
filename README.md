@@ -10,7 +10,7 @@ How to install:
 	https://github.com/neeee/tewi-font
 
 ###2. Install manualtiling
-	Clone this repo to /usr/share/awesome
+	Clone this repo to /usr/share/awesome/themes
 	
 ###3. Set it as default theme
 	Search for "beautiful.init" in "/etc/xdg/awesome/rc.lua" and change it to look like this:
