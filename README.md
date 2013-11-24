@@ -20,6 +20,6 @@ How to install:
 		beautiful.init("/usr/share/awesome/themes/manualtiling/theme.lua")
 		 
 
-4. Restart awesome
+###4. Restart awesome
 
 *manualtiling uses tewi is default font, you can always choose to use another font
