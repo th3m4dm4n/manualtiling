@@ -6,7 +6,7 @@ Manual Tiling is a simple theme for awesome WM (v.3.4 or below) basedthe the def
 How to install:
 ---------------
 ###1.Install Tewi (recommended)* 
-#	You can get it here:
+	You can get it here:
 	https://github.com/neeee/tewi-font
 
 ###2. Install manualtiling
@@ -20,6 +20,6 @@ How to install:
 		beautiful.init("/usr/share/awesome/themes/manualtiling/theme.lua")
 		 
 
-4. Restart awesome
+###4. Restart awesome
 
 *manualtiling uses tewi is default font, you can always choose to use another font
