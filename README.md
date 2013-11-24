@@ -6,7 +6,7 @@ Manual Tiling is a simple theme for awesome WM (v.3.4 or below) basedthe the def
 How to install:
 ---------------
 ###1.Install Tewi (recommended)* 
-	You can get it here:
+#	You can get it here:
 	https://github.com/neeee/tewi-font
 
 ###2. Install manualtiling
